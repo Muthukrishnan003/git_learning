@@ -1,4 +1,5 @@
 asfdkasdnkdf d,ms fdan
+<<<<<<< HEAD
 dafdfa
 dfadfd
 dfdafdsd
@@ -12,3 +13,5 @@ fddfsa
 
 
 cat ball dog frog egg ginger hen icecream jeep king lion
+=======
+>>>>>>> parent of d1c4777 (modified second)
