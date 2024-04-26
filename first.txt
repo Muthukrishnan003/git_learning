@@ -6,8 +6,6 @@ good morning
 
 
 muthukrishnan
-<<<<<<< HEAD
-=======
 
 akash
 
@@ -22,4 +20,4 @@ chandru
 subu
 dinesh
 sri
->>>>>>> 7aeb58526d6aeb7c5ec7dbe22b959e36305a7430
+
